@@ -10,11 +10,12 @@ going from an API. Trying to eyeball two structures each half a screen in size,
 with mostly equivalent data arranged in different orders, was a great big barrel
 of no fun!
 
-NOTE: This gem is just barely pupating from "kludgy hack" to a ruby gem, which
-means it's really just "a ruby gem that contains a kludge hack". My development
-objectives for this tool are to increase functionality and to make it easier to
-use. Right now it's, well, it's a kludge hack. Draw your own assumptions (the
-more dismal the better).
+NOTE: This gem is just *barely* pupating from "kludgy hack" to "a ruby gem that
+thinly wraps a kludgy hack". My development objectives for this tool are to
+increase functionality and to make it easier to use. If the move to a gem proves
+useful then I'll consider treating the code as something I care about
+maintaining. Right now it's, well, it's a kludgy hack. Draw your own assumptions
+(the more dismal the better).
 
 ## Installation
 
