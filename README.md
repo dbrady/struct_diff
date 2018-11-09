@@ -48,9 +48,9 @@ StructDiff.hash_cmp h1, h2
 
 
 **TODO**: Note that only comparing hashes is currently supported. Eventually
-`hash_cmp` will become `struct_diff` or `struct_cmp` and will tolerate
-Arrays. Further TODO items can be found in
-the [TODO file](https://github.com/dbrady/struct_diff/blob/master/TODO.md)
+`hash_cmp` will become `struct_diff` or `struct_cmp` and will tolerate Arrays,
+and maybe Sets and Structs (but probably YAGNI). Further TODO items can be found
+in the [TODO file](https://github.com/dbrady/struct_diff/blob/master/TODO.md)
 or [issues](https://github.com/dbrady/struct_diff/issues).
 
 ## Development
